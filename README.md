@@ -18,4 +18,6 @@ rainbowfroglsd ![rainbowfrog](frogs/rainbowfroglsd.gif)
 
 rainbowfrogshuffle ![rainbowfrog](frogs/rainbowfrogshuffle.gif)
 
+rainbowfrogshufflereverse ![rainbowfrog](frogs/rainbowfrogshufflereverse.gif)
+
 rainbowfrogturbo ![rainbowfrog](frogs/rainbowfrogturbo.gif)
