@@ -21,3 +21,7 @@ rainbowfrogshuffle ![rainbowfrog](frogs/rainbowfrogshuffle.gif)
 rainbowfrogshufflereverse ![rainbowfrog](frogs/rainbowfrogshufflereverse.gif)
 
 rainbowfrogturbo ![rainbowfrog](frogs/rainbowfrogturbo.gif)
+
+rainbowfrogshuffleaussie ![rainbowfrog](frogs/rainbowfrogshuffleaussie.gif)
+
+rainbowfrogshuffleaussiereverse ![rainbowfrog](frogs/rainbowfrogshuffleaussiereverse.gif)
